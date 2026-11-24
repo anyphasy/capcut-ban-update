@@ -5,6 +5,8 @@
 >
 > 为什么非要留在旧版：**3.8 及以下是最后一批支持免费字幕识别的版本，4.0 之后开始封堵。**
 
+仓库地址：[GitHub](https://github.com/anyphasy/capcut-ban-update) ｜ [Gitee](https://gitee.com/anyphasy/capcut-ban-update)（两处内容同步，国内访问走 Gitee 更快）
+
 ---
 
 ## 一、先看清结构：它不是"一个程序"，是三层
